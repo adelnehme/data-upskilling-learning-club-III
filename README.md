@@ -3,7 +3,7 @@
 </p>
 
 
-## **Data UpSkilling Learning Club: Introduction to Python**
+## **Data UpSkilling Learning Club: Data Visualization with Python**
 
 
 ### **Key session takeaways**
